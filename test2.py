@@ -12,7 +12,7 @@ user_prompt = input("Enter the prompt for the image: ")
 response = openai.Image.create(
     prompt=user_prompt,
      size='1024x1024',
-     n=2
+     n=1
 )
 
 try:
