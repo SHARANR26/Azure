@@ -1,4 +1,4 @@
-# Contributing to Azure samples
+# Contributing to Azure Open Ai samples
 
 Thank you for your interest in contributing to Azure samples!
 
